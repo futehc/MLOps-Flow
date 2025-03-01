@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+mlflow
+prefect
+joblib
+fastapi
+uvicorn
+docker
+prometheus_client
+grafana-api
+
