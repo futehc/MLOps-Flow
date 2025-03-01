@@ -17,7 +17,7 @@ This repository contains an advanced MLOps pipeline that automates the lifecycle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mlops-pipeline.git
+   git clone https://github.com/futehc/mlops-flow.git
    cd mlops-pipeline
    ```
 2. Install dependencies:
