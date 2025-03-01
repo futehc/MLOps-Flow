@@ -30,7 +30,7 @@ This repository contains an advanced MLOps pipeline that automates the lifecycle
 Run the MLOps pipeline:
 
 ```bash
-python pipeline.py
+python automl_pipeline.py
 ```
 
 ## Model Deployment
